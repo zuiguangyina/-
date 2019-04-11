@@ -21,6 +21,7 @@
 	- 05-fine-tune: 第五章 卷积神经网络调参
 	- 06-style-transfer: 第六章 图像风格转换
 	- 07-rnn-text-classification: 第七章 循环神经网络与文本分类
+	- 08-image-caption: 第八章 图像生成文本
 	- 09-gan: 第九章 对抗生成网络DCGAN
 
 数据地址：
